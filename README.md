@@ -20,3 +20,10 @@ Technologies Used:
 #### Pandas: For data manipulation and preprocessing.
 #### Matplotlib & Seaborn: For data visualization.
 #### NumPy: For numerical computations.
+
+📬 Get in Touch
+For feedback, inquiries, or collaboration, feel free to reach out!
+
+Email: neerajkhn86@gmail.com
+LinkedIn: https://www.linkedin.com/in/neeraj-sharma-6017b854/
+
